@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "515230412277",
+    "firebase_url": "https://folkapp-ce015.firebaseio.com",
+    "project_id": "folkapp-ce015",
+    "storage_bucket": "folkapp-ce015.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515230412277:android:36bfc20c14db78c10f04bc",
+        "android_client_info": {
+          "package_name": "co.appbrewery.micard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515230412277-pdbnge1rknoca03olmfnj4sq0ch5aoq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4ZZs27ppAAOgjVNBA6n68zhqZDokhKnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515230412277-pdbnge1rknoca03olmfnj4sq0ch5aoq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
